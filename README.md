@@ -1,3 +1,3 @@
-# my-blog
+# My-everyday-blog
 
-每天进步一点点
+# 日拱一卒，笔耕不辍
